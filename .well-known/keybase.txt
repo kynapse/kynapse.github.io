@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/kynapse
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://kynapse.me
+  * I am kynapse (https://keybase.io/kynapse) on keybase.
+  * I have a public key ASAeDUmYR9XlDtEcIxg-IYoxlTuNDu5Qk54nvdIazflqYAo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0120e7258ad69c0980577946db4da5b05dcfb908e56610e7c562555eea4b5be253520a",
+            "host": "keybase.io",
+            "kid": "01201e0d499847d5e50ed11c23183e218a31953b8d0eee50939e27bdd21acdf96a600a",
+            "uid": "59c5c2d414a50e62d5223ec3c5e1b619",
+            "username": "kynapse"
+        },
+        "merkle_root": {
+            "ctime": 1498786686,
+            "hash": "c9ec53f77bd2375993d735f80911f5d2efe87967e687978c2e16f8b0bf3cc4492be7624cc7538c903e018e0e8cd0a3f438d58dcd1745e12a588cb2e807d848f4",
+            "hash_meta": "3303e56265cc4d4f892f89bccb2164845d161b4aa97e8df2b8cbb266fb150dc0",
+            "seqno": 1202292
+        },
+        "service": {
+            "hostname": "kynapse.me",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.24"
+    },
+    "ctime": 1498786694,
+    "expire_in": 504576000,
+    "prev": "055f66b104711e0518a22736712fe76e9e04613dcc81af04d123f31880dcb7d4",
+    "seqno": 17,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgHg1JmEfV5Q7RHCMYPiGKMZU7jQ7uUJOeJ73SGs35amAKp3BheWxvYWTFA0F7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwZTcyNThhZDY5YzA5ODA1Nzc5NDZkYjRkYTViMDVkY2ZiOTA4ZTU2NjEwZTdjNTYyNTU1ZWVhNGI1YmUyNTM1MjBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwMWUwZDQ5OTg0N2Q1ZTUwZWQxMWMyMzE4M2UyMThhMzE5NTNiOGQwZWVlNTA5MzllMjdiZGQyMWFjZGY5NmE2MDBhIiwidWlkIjoiNTljNWMyZDQxNGE1MGU2MmQ1MjIzZWMzYzVlMWI2MTkiLCJ1c2VybmFtZSI6Imt5bmFwc2UifSwibWVya2xlX3Jvb3QiOnsiY3RpbWUiOjE0OTg3ODY2ODYsImhhc2giOiJjOWVjNTNmNzdiZDIzNzU5OTNkNzM1ZjgwOTExZjVkMmVmZTg3OTY3ZTY4Nzk3OGMyZTE2ZjhiMGJmM2NjNDQ5MmJlNzYyNGNjNzUzOGM5MDNlMDE4ZTBlOGNkMGEzZjQzOGQ1OGRjZDE3NDVlMTJhNTg4Y2IyZTgwN2Q4NDhmNCIsImhhc2hfbWV0YSI6IjMzMDNlNTYyNjVjYzRkNGY4OTJmODliY2NiMjE2NDg0NWQxNjFiNGFhOTdlOGRmMmI4Y2JiMjY2ZmIxNTBkYzAiLCJzZXFubyI6MTIwMjI5Mn0sInNlcnZpY2UiOnsiaG9zdG5hbWUiOiJreW5hcHNlLm1lIiwicHJvdG9jb2wiOiJodHRwOiJ9LCJ0eXBlIjoid2ViX3NlcnZpY2VfYmluZGluZyIsInZlcnNpb24iOjF9LCJjbGllbnQiOnsibmFtZSI6ImtleWJhc2UuaW8gZ28gY2xpZW50IiwidmVyc2lvbiI6IjEuMC4yNCJ9LCJjdGltZSI6MTQ5ODc4NjY5NCwiZXhwaXJlX2luIjo1MDQ1NzYwMDAsInByZXYiOiIwNTVmNjZiMTA0NzExZTA1MThhMjI3MzY3MTJmZTc2ZTllMDQ2MTNkY2M4MWFmMDRkMTIzZjMxODgwZGNiN2Q0Iiwic2Vxbm8iOjE3LCJ0YWciOiJzaWduYXR1cmUifaNzaWfEQNrEEYidwoZC5EnFmEI00IVjr76ZXboGQsEr7tgwGfk3amHAxGQyMzh+xihmKZRRkIDTdY+j28wEo2gUpWFxcwCoc2lnX3R5cGUgpGhhc2iCpHR5cGUIpXZhbHVlxCCQsy+ez/JmueOjVfd61MPZMv2VDYtd3WDCuSgnBr2pvqN0YWfNAgKndmVyc2lvbgE=
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/kynapse
+
+==================================================================
